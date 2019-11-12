@@ -1,0 +1,5 @@
+Credentials cache: API:F0CC00CC-3486-4B91-BF9B-882CAF2E7D05
+        Principal: pconde-c@42MADRID.COM
+
+  Issued                Expires               Principal
+Nov 12 17:16:49 2019  Nov 13 03:16:49 2019  krbtgt/42MADRID.COM@42MADRID.COM
